@@ -1,2 +1,3 @@
 # HelloGitHub
-Just a simple project to test GitHub features
+
+Just a simple project to test some GitHub features.
